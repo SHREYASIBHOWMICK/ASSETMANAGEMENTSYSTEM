@@ -1,0 +1,10 @@
+table {
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: groove;
+    background-color:rgb(236, 240, 252);
+  }
+  .no-outline:focus {
+    outline: none;
+  }
